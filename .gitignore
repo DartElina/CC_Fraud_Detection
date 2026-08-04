@@ -1,0 +1,26 @@
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+
+# Datasets
+fraudTrain.csv
+fraudTest.csv
